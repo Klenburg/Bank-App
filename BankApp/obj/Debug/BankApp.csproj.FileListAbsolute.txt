@@ -1,0 +1,16 @@
+C:\Coding\WSS\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Coding\WSS\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Coding\WSS\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Coding\WSS\BankApp\BankApp\obj\Debug\BankApp.csproj.AssemblyReference.cache
+C:\Coding\WSS\BankApp\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Coding\WSS\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Coding\WSS\BankApp\BankApp\obj\Debug\BankApp.pdb
+C:\Coding\WSS\BankApp\BankApp\obj\Debug\BankApp.exe.config
+C:\Users\kaitl\OneDrive\Documents\Portfolio\BankApp_KaitlynLenburg\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\kaitl\OneDrive\Documents\Portfolio\BankApp_KaitlynLenburg\BankApp\bin\Debug\BankApp.exe
+C:\Users\kaitl\OneDrive\Documents\Portfolio\BankApp_KaitlynLenburg\BankApp\bin\Debug\BankApp.pdb
+C:\Users\kaitl\OneDrive\Documents\Portfolio\BankApp_KaitlynLenburg\BankApp\obj\Debug\BankApp.csproj.AssemblyReference.cache
+C:\Users\kaitl\OneDrive\Documents\Portfolio\BankApp_KaitlynLenburg\BankApp\obj\Debug\BankApp.exe.config
+C:\Users\kaitl\OneDrive\Documents\Portfolio\BankApp_KaitlynLenburg\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\kaitl\OneDrive\Documents\Portfolio\BankApp_KaitlynLenburg\BankApp\obj\Debug\BankApp.exe
+C:\Users\kaitl\OneDrive\Documents\Portfolio\BankApp_KaitlynLenburg\BankApp\obj\Debug\BankApp.pdb
