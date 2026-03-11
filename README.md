@@ -16,7 +16,7 @@ A minature banking system built in C# as part of my volunteer developer work for
 ### Data Handling 
 - In-memory account storage
 - Unique account tracking
-- Clean separation of concerns using classes (`Bank`, `Account`, etc.)
+- Clean separation of concerns using classes (Bank, Account, etc.)
 
 ### User Experience 
 - Menu-driven interface
